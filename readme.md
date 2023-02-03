@@ -6,6 +6,14 @@ A vanilla HTML, JavaScript, CSS experiment with the [HTML Drag and Drop API](htt
 
 ## How to run it
 
-Just open the [`index.html`](index.html) file on the browser.
+- Install the NPM package `serve`
+  ```sh
+  npm install --global serve
+  ```
+- Run the server on this folder
+  ```sh
+  serve .
+  ```
+- Open the [`index.html`](index.html) file on the browser.
 
-Drag colours to the mixer square
+- Drag colours to the mixer square 🌈
